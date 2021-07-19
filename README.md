@@ -13,5 +13,5 @@ The increased functionality of the table filters allows users to get specific in
 
 # Summary
 One drawback of this design is the lack of a filter button. Two recommendations I would make is to add the following events/buttons for added convenience:
--"Filter Table" button
--"Reset Table" Button.
+- "Filter Table" button
+- "Reset Table" Button.
